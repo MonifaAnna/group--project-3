@@ -1,0 +1,199 @@
+.main{
+    font-family: serif;
+    width: 1510px;
+}
+/* Navbar */
+.navbar{
+    background-color: rgb(8,48,4);
+    height: 80px;
+    width: 1510px;
+}
+.colorr{
+    width: 100%;
+}
+.navbar-brand{
+    margin-left: 90px;
+   
+}
+.link1{
+    margin-left: 17px;
+    color:white;
+}
+.link1:hover{
+    color:orange;
+}
+.navbar-nav{
+font-weight: 700;
+padding: 10px;
+margin-left: 160px;
+font-size: 20px;
+}
+.btn-nav{
+    width: 160px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 23px;
+    background-color: white;
+    border-radius: 10px;
+    color:rgb(8,48,4);
+   margin-left: 300px;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+}
+/* Us sec */
+.us-sec{
+    margin-top: 80px;
+    height: 370px;
+    background-color: rgb(8,48,4);
+    text-align: center;
+    padding: 80px;
+    color: white;
+}
+.us-text1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.us-text-2{
+    font-size: 20px;
+}
+/*  The Best bite  */
+.bite-div1{
+    height: 600px;
+    width:750px;
+}
+.bite-pic{
+    width: 100%;
+    height: 100%;
+}
+.bite-div2{
+    height: 600px;
+    width: 700px;
+    
+    text-align: start;
+    padding: 100px;
+    margin-left: 30px;
+}
+.d-flexs{
+display: flex;
+margin-left: 20px;
+ 
+}
+.bite-btn{
+    width: 180px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 20px;
+    background-color:rgb(8,48,4);
+    border-radius: 10px;
+    color:white;
+    margin-left:0px;
+    
+}
+.bite-p{
+    font-size: 50px;
+    font-weight: 700;
+}
+.bite-p2{
+    font-size: 20px;
+    font-weight: 300;
+}
+/* real food */
+.food{
+    background-color: rgb(8,48,4);
+    text-align: center;
+    font-size: 35px;
+    height: 120px;
+    padding-top: 30px;
+    color: white;
+}
+/* heart */
+.heart-div1{
+    height: 600px;
+    width:650px;
+    margin-left: 100px;
+}
+.heart-pic{
+    width: 100%;
+    height: 100%;
+}
+.heart-div2{
+    height: 600px;
+    width: 700px;
+    
+    text-align: start;
+    padding: 100px;
+    margin-left:20px;
+}
+.d-flexs{
+display: flex;
+margin-left: 20px;
+ 
+}
+.heart-btn{
+    width: 180px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 20px;
+    background-color:rgb(8,48,4);
+    border-radius: 10px;
+    color:white;
+    margin-left:0px;
+    
+}
+.heart-p{
+    font-size: 50px;
+    font-weight: 700;
+}
+.heart-p2{
+    font-size: 20px;
+    font-weight: 300;
+}
+ /* footer */
+ .foot{
+    height: 450px;
+    background-color:rgb(8,48,4);
+    display: flex;
+    padding-left: 100px;
+    padding-top: 100px;
+    
+   }
+   .foott{
+    margin-left: 180px;
+   }
+   .foottt{
+    margin-left: 250px;
+   }
+   .footp1{
+    font-size: 30px;
+   
+    color: white;
+   }
+   .footp2{
+    font-size: 20px;
+    
+    color: white;
+   }
+   .foot1{
+    font-weight: 600;
+    color: white;
+    font-size: 50px;
+   }
+   .email{
+    width: 300px;
+    height: 50px;
+    background-color: transparent;
+    border: 2px solid white;
+   }
+   .join{
+    width: 70px;
+    height: 50px;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+   }
+   .logo{
+    width: 200px;
+    height: 100px;
+}
